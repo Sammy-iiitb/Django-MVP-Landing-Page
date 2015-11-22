@@ -1,3 +1,3 @@
 Django MVP Landing Page
 
-It this project a website is created using Django a web framework
+In this project a website is created using Django a web framework
